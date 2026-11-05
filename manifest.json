@@ -1,0 +1,26 @@
+{
+  "name": "Digital-сервис Novabiom – искусство заботы о здоровье",
+  "short_name": "Novabiom",
+  "description": "ДНК анализ микрофлоры кишечника и персональные рекомендации по питанию и приему БАД",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6A53F1",
+  "icons": [
+    {
+      "src": "/favicon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon/favicon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
