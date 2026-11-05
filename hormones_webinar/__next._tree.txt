@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/06xsc72ru1m4c.css","style"]
-:HL["/_next/static/chunks/2uzwn3jfpozn8.css","style"]
+:HL["/static-site/_next/static/chunks/06xsc72ru1m4c.css","style"]
+:HL["/static-site/_next/static/chunks/2uzwn3jfpozn8.css","style"]
 :HC["/",""]
-:HL["/images/assets/bachtiatov-webinar-hero-desktop.webp","image",{"fetchPriority":"high"}]
-:HL["/images/assets/bachtiatov-webinar-hero-tablet.webp","image",{"fetchPriority":"high"}]
-:HL["/images/assets/bachtiatov-webinar-hero-mobile.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(session)","param":null,"prefetchHints":0,"slots":{"children":{"name":"(landing)","param":null,"prefetchHints":0,"slots":{"children":{"name":"(webinar)","param":null,"prefetchHints":0,"slots":{"children":{"name":"hormones_webinar","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"Qxyl16tTYeLWVcgDVMZq1"}
+:HL["/static-site/images/assets/bachtiatov-webinar-hero-desktop.webp","image",{"fetchPriority":"high"}]
+:HL["/static-site/images/assets/bachtiatov-webinar-hero-tablet.webp","image",{"fetchPriority":"high"}]
+:HL["/static-site/images/assets/bachtiatov-webinar-hero-mobile.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(session)","param":null,"prefetchHints":0,"slots":{"children":{"name":"(landing)","param":null,"prefetchHints":0,"slots":{"children":{"name":"(webinar)","param":null,"prefetchHints":0,"slots":{"children":{"name":"hormones_webinar","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"I23ij9s-ks8KVoBNdIBhh"}
